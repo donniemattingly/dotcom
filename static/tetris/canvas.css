@@ -1,0 +1,20 @@
+#board {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-family: monospace;
+}
+
+#myElement{
+    width: 100%;
+    height: 100%;
+    font-family: monospace;
+}
+
+#my_popup{
+    color: #FAFAFA;
+    font-size: 2em;
+    position: relative;
+}

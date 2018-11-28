@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Donnie Mattingly"
+theme = "ananke"
+SectionPagesMenu = "main"
+pluralizelisttitles = "false"
